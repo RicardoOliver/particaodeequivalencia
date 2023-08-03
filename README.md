@@ -3,7 +3,7 @@
 <p>
   A partição de equivalência é uma técnica de teste muito útil para definir casos de teste de forma eficiente. Agora, vamos criar a partição de equivalência para uma nova regra de negócio utilizando uma variável diferente. Vamos supor que a regra de negócio seja a seguinte:
 
-<h2>Regra de negócio 4:</h2>
+<h2>Regra de negócio:</h2>
 
 Um sistema de login só permite acesso a usuários com senhas de 6 a 12 caracteres alfanuméricos (combinação de letras e números).
 
