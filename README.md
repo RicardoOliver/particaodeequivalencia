@@ -7,7 +7,7 @@
 
 <h3>Um sistema de login só permite acesso a usuários com senhas de 6 a 12 caracteres alfanuméricos (combinação de letras e números).</h3>
 
-Passo 1: Identificar a variável de entrada, que neste caso é "SENHA".
+<h4>Passo 1:</h4> Identificar a variável de entrada, que neste caso é "SENHA".
 
 Passo 2: Faça uma linha reta e informe o nome da variável de entrada definida, no caso "SENHA".
 </p>
@@ -16,20 +16,20 @@ Passo 2: Faça uma linha reta e informe o nome da variável de entrada definida,
                       SENHA
         _________________________________________
 
-Passo 3: Faça os riscos para separar variáveis válidas e inválidas.
+<h4>Passo 3:</h4> Faça os riscos para separar variáveis válidas e inválidas.
 
                        SENHA
         ____________|________________|__________
          Inválidas  |    válidas     | Inválidas
 
-Passo 4: Informe os valores das partições. Conforme a regra de negócio, senhas válidas têm 6 a 12 caracteres alfanuméricos, e senhas inválidas têm menos de 6 ou mais de 12 caracteres.
+<h4>Passo 4:</h4> Informe os valores das partições. Conforme a regra de negócio, senhas válidas têm 6 a 12 caracteres alfanuméricos, e senhas inválidas têm menos de 6 ou mais de 12 caracteres.
 
                        SENHA
         ____________|________________|__________
          Inválidas  |    válidas     | Inválidas
              <6     |    6 a 12      |    >12
              
-Passo 5: Crie um teste para cada partição. Para a regra de negócio 4, temos 3 casos de testes.
+<h4>Passo 5:</h4> Crie um teste para cada partição. Para a regra de negócio 4, temos 3 casos de testes.
 
                        SENHA
         ____________|________________|__________
