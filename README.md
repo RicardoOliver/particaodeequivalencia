@@ -5,7 +5,7 @@
 
 <h2>Regra de negócio:</h2>
 
-Um sistema de login só permite acesso a usuários com senhas de 6 a 12 caracteres alfanuméricos (combinação de letras e números).
+<h3>Um sistema de login só permite acesso a usuários com senhas de 6 a 12 caracteres alfanuméricos (combinação de letras e números).</h3>
 
 Passo 1: Identificar a variável de entrada, que neste caso é "SENHA".
 
