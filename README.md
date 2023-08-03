@@ -1,7 +1,7 @@
 # particaodeequivalencia
 
 <p>
-  A partição de equivalência é uma técnica de teste muito útil para definir casos de teste de forma eficiente. No seu exemplo, você já aplicou a técnica para três regras de negócio diferentes. Agora, vamos criar a partição de equivalência para uma nova regra de negócio utilizando uma variável diferente. Vamos supor que a regra de negócio seja a seguinte:
+  A partição de equivalência é uma técnica de teste muito útil para definir casos de teste de forma eficiente. Agora, vamos criar a partição de equivalência para uma nova regra de negócio utilizando uma variável diferente. Vamos supor que a regra de negócio seja a seguinte:
 
 <h2>Regra de negócio 4:</h2>
 
