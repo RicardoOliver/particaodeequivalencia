@@ -33,7 +33,7 @@ Para aplicar a técnica de partição de equivalência, é necessário identific
          Inválidas  |    válidas     | Inválidas
              <6     |    6 a 12      |    >12
              
-<h4>Passo 5:</h4> Crie um teste para cada partição. Para a regra de negócio 4, temos 3 casos de testes.
+<h4>Passo 5:</h4> Crie um teste para cada partição. Para a regra de negócio, temos 3 casos de testes.
 
                        SENHA
         ____________|________________|__________
