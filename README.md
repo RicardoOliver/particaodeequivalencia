@@ -1,7 +1,11 @@
 # particaodeequivalencia
 
 <p>
-  A partição de equivalência é uma técnica de teste muito útil para definir casos de teste de forma eficiente. Agora, vamos criar a partição de equivalência para uma nova regra de negócio utilizando uma variável diferente. Vamos supor que a regra de negócio seja a seguinte:
+A partição de equivalência é uma técnica utilizada em testes de software para reduzir a quantidade de casos de teste necessários para garantir a qualidade do programa. Essa técnica se baseia na ideia de que agrupar valores de entrada em classes de equivalência reduz a redundância dos testes e, ao mesmo tempo, garante a cobertura dos cenários mais relevantes.
+
+O conceito chave é que, se um programa funciona corretamente para um valor em uma classe de equivalência, então ele também funcionará corretamente para qualquer outro valor nessa mesma classe. Por outro lado, se um programa falhar para um valor em uma classe de equivalência, então ele provavelmente falhará para todos os outros valores nessa classe também.
+
+Para aplicar a técnica de partição de equivalência, é necessário identificar os conjuntos de entradas que têm comportamentos semelhantes e agrupá-los em classes. Cada classe deve ser representada por um único valor de teste ou uma faixa de valores. Dessa forma, os casos de teste são selecionados para representar cada classe de equivalência, maximizando a cobertura do software com o mínimo de esforço. Vamos supor que a regra de negócio seja a seguinte:
 
 <h2>Regra de negócio:</h2>
 
