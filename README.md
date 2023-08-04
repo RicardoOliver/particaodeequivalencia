@@ -49,4 +49,4 @@ Resultado: Senha válida.
 <h4>Caso de Teste 3:</h4> Informar uma senha de 15 caracteres alfanuméricos.
 Resultado: Senha inválida.
 
-[^1]:Com essa partição de equivalência, temos uma representação clara dos casos de teste para verificar se o sistema de login está se comportando corretamente com base nas restrições da regra de negócio.
+<h4>Com essa partição de equivalência, temos uma representação clara dos casos de teste para verificar se o sistema de login está se comportando corretamente com base nas restrições da regra de negócio.</h4>
