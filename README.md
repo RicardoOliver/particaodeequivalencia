@@ -51,4 +51,4 @@ Resultado: Senha inválida.
 
 <h4>Com essa partição de equivalência, temos uma representação clara dos casos de teste para verificar se o sistema de login está se comportando corretamente com base nas restrições da regra de negócio.</h4>
 
-@octocat :+1: Por hoje é só ... mas antes de ir quero te dizer que a fidelidade de Deus não mudou e não mudará... e que a fé Nele te faz mesmo não vendo crer que o melhor Dele ainda está por vir.. e quando Ele diz... pode ter certeza... virá.... :shipit:
+@octocat :+1: Por hoje é só ... mas antes de ir quero te dizer que a fidelidade de Deus não mudou e não mudará... e que a fé Nele te faz mesmo não vendo crer que o melhor Dele ainda está por vir.. e quando Ele diz... pode ter certeza... virá....
