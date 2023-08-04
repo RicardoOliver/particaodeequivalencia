@@ -40,13 +40,13 @@ Para aplicar a técnica de partição de equivalência, é necessário identific
          Inválidas  |    válidas     | Inválidas
              <6     |    6 a 12      |    >12
 
-Caso de Teste 1: Informar uma senha de 5 caracteres alfanuméricos.
+<h4>Caso de Teste 1:</h4> Informar uma senha de 5 caracteres alfanuméricos.
 Resultado: Senha inválida.
 
-Caso de Teste 2: Informar uma senha de 8 caracteres alfanuméricos.
+<h4>Caso de Teste 2:</h4> Informar uma senha de 8 caracteres alfanuméricos.
 Resultado: Senha válida.
 
-Caso de Teste 3: Informar uma senha de 15 caracteres alfanuméricos.
+<h4>Caso de Teste 3:</h4> Informar uma senha de 15 caracteres alfanuméricos.
 Resultado: Senha inválida.
 
 Com essa partição de equivalência, temos uma representação clara dos casos de teste para verificar se o sistema de login está se comportando corretamente com base nas restrições da regra de negócio.
