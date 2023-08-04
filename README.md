@@ -13,7 +13,7 @@ Para aplicar a técnica de partição de equivalência, é necessário identific
 
 <h4>Passo 1:</h4> Identificar a variável de entrada, que neste caso é "SENHA".
 
-Passo 2: Faça uma linha reta e informe o nome da variável de entrada definida, no caso "SENHA".
+<h4>Passo 2:</h4> Faça uma linha reta e informe o nome da variável de entrada definida, no caso "SENHA".
 </p>
                      
                       
