@@ -50,3 +50,5 @@ Resultado: Senha válida.
 Resultado: Senha inválida.
 
 <h4>Com essa partição de equivalência, temos uma representação clara dos casos de teste para verificar se o sistema de login está se comportando corretamente com base nas restrições da regra de negócio.</h4>
+
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
